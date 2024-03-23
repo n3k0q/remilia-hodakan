@@ -856,23 +856,7 @@ textarea {
      -moz-user-select: none;
           user-select: none;
   z-index: -1;
-}
-#app-mount .userPopoutOuter_d739b2 .userPopoutInner_f545a3::before {
-  top: 4px;
-  left: 4px;
-}
-#app-mount .userPopoutOuter_d739b2 .userPopoutInner_f545a3:not(.userProfileInnerThemedNonPremium__3d0a6) .avatarPositionPremiumBanner-2nq2Fy {
-  top: 73px;
-  left: 21px;
-}
-#app-mount .userPopoutOuter_d739b2 .userPopoutInner_f545a3:not(.userProfileInnerThemedNonPremium__3d0a6) .bannerSVGWrapper__3e7b0 {
-  margin: 2px 4px 4px 4px;
-  box-sizing: border-box;
-  width: calc(100% - 8px);
-  min-width: unset !important;
-}
-#app-mount .userPopoutOuter_d739b2 .userPopoutInner_f545a3.userProfileInnerThemedNonPremium__3d0a6 .overlayBackground__86b78 {
-  margin: 0 8px 8px;
+
 }
 #app-mount .userPopoutOuter_d739b2 .headerNormal-T_seeN {
   background: transparent;
