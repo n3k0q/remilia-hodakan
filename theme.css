@@ -1280,7 +1280,6 @@ textarea {
   background: linear-gradient(var(--tint), var(--tint)), var(--fb-popout-image);
   background-position: var(--fb-popout-position, center);
   background-size: var(--fb-popout-size, cover);
-  background-attachment: var(--fb-popout-attachment, revert);
   background-repeat: var(--fb-popout-repeat, no-repeat);
   box-shadow: inset 0 0 0 100vmax rgb(0, 0, 0, var(--overlay-brightness));
   height: calc(100% + var(--fb-popout-blur) * 5);
